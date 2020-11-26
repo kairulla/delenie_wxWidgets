@@ -23,13 +23,3 @@ void MainFrame::MyClick(wxCommandEvent& event)
         wxMessageBox(e.what());
         }
 }
-
-
-
-
-![alt text](https://github.com/kairulla/delenie_wxWidgets/blob/master/1.png)
-![alt text](https://github.com/kairulla/delenie_wxWidgets/blob/master/2.png)
-![alt text](https://github.com/kairulla/delenie_wxWidgets/blob/master/3.png)
-![alt text](https://github.com/kairulla/delenie_wxWidgets/blob/master/4.png)
-![alt text](https://github.com/kairulla/delenie_wxWidgets/blob/master/5.png)
-![alt text](https://github.com/kairulla/delenie_wxWidgets/blob/master/6.png)
