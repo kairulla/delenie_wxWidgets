@@ -1,7 +1,7 @@
 # delenie_wxWidgets
+~~~
 #include "main.h"
 
-###
 void MainFrame::MyClick(wxCommandEvent& event)
 {
 	try 
@@ -23,3 +23,4 @@ void MainFrame::MyClick(wxCommandEvent& event)
         wxMessageBox(e.what());
         }
 }
+~~~
