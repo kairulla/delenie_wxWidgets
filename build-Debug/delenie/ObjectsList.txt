@@ -1,0 +1,1 @@
+../build-Debug/delenie/main.cpp.o ../build-Debug/delenie/commands.cpp.o ../build-Debug/delenie/gui.cpp.o

@@ -1,0 +1,1 @@
+../build-Release/delenie/main.cpp.o ../build-Release/delenie/gui.cpp.o
