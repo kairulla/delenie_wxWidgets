@@ -23,4 +23,4 @@ void MainFrame::MyClick(wxCommandEvent& event)
         }
 }
 
-![alt text](delenie_wxwidgets/1.png)
+![alt text](https://github.com/kairulla/delenie_wxWidgets/blob/master/1.png)
