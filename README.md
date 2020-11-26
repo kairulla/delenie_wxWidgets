@@ -1,7 +1,7 @@
 # delenie_wxWidgets
 #include "main.h"
 
-***
+###
 void MainFrame::MyClick(wxCommandEvent& event)
 {
 	try 
