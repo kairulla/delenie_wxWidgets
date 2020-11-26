@@ -1,4 +1,3 @@
-# delenie_wxWidgets
 ~~~
 #include "main.h"
 
